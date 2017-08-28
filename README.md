@@ -1,0 +1,1 @@
+This repository contains archived downloads originally from SourceForge. The current code (with all history) is in [NETProvider repository](https://github.com/FirebirdSQL/NETProvider).
